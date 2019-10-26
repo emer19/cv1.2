@@ -1,0 +1,34 @@
+body {
+  background-color: #eeeeee;
+}
+
+h1{
+  color: #00adb5;
+}
+
+h3{
+  color: #00adb5;
+}
+
+strong{
+  color: #222831;
+}
+
+p{
+  color: #393e46;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+/**/
+
+#myImg{
+  border-radius: 100%;
+}
